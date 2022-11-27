@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "623206073133",
+    "project_id": "waleed-shop",
+    "storage_bucket": "waleed-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623206073133:android:32b3eef38ed130d2c009a4",
+        "android_client_info": {
+          "package_name": "com.example.my_app_waleed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623206073133-rgt18qfstqnr01de72g776lrp8gf7e3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeuCB4QHmKCtTkJ5_yBCYEq9u_LyjuP0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623206073133-rgt18qfstqnr01de72g776lrp8gf7e3g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "623206073133-rd0ivrdkd3deq8q9hag9hshoe6d1it9n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "waleed.shop.plugins.firebase.auth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
